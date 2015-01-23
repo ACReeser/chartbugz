@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+		<rss version="2.0">
+			<channel>
+				<title>RSS Feed</title>
+				<link>localhost</link>
+				<description>ChartBugz RSS Feed</description>
+				<language>en-us</language>
+				<copyright>Copyright 2015 Cyrious Software</copyright>
+		
+		<item>
+			<title>You have no RSS feeds</title>
+			<link>localhost</link>
+			<description>Estimate: 1</description>
+			<author></author>
+			<category></category>
+			<guid></guid>
+			<pubDate>Mon, 19 Jan 2015 06:48:16 GMT</pubDate>				
+		</item>	</channel></rss>

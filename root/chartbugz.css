@@ -1,0 +1,9 @@
+.pull-right{
+	float:right;
+}
+
+.filter-list{
+	z-index: 1;
+	position: absolute;
+	right:50px;
+}
