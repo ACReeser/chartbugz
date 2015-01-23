@@ -1,0 +1,27 @@
+{
+  "name": "chartbugz",
+  "version": "0.0.0",
+  "description": "charting fogbugz",
+  "main": "server.js",
+  "dependencies": {
+    "corsproxy": "^0.2.14",
+    "express": "^4.11.1",
+    "http-proxy": "^1.8.1",
+    "request": "^2.51.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ACReeser/chartbugz.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ACReeser/chartbugz/issues"
+  },
+  "homepage": "https://github.com/ACReeser/chartbugz"
+}
