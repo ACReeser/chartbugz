@@ -2,6 +2,13 @@
 	float:right;
 }
 
+.refresh-list{
+	z-index: 1;
+	position: absolute;
+	left:50px;
+	top:25px;
+}
+
 .filter-list{
 	z-index: 1;
 	position: absolute;
