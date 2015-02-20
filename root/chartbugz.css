@@ -2,15 +2,30 @@
 	float:right;
 }
 
-.refresh-list{
+.left-list{
 	z-index: 1;
 	position: absolute;
 	left:50px;
-	top:25px;
+	top:20px;
 }
 
 .filter-list{
 	z-index: 1;
 	position: absolute;
 	right:50px;
+}
+
+/*move the month|week|day to the left to not interfere with our RSS selector*/
+.fc-right .fc-button-group{
+	margin-right: 140px;
+}
+
+#calendar{
+	max-width: 900px;
+	margin: 0px auto;
+	padding-top: 60px;
+}
+
+#chart{
+	margin: 0 auto;
 }
