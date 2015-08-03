@@ -134,7 +134,7 @@
     chartbugz.loadData = function () {
         var data = [], subUrl = chartbugz.filterMap[chartbugz.currentFilterNickname];
         $.getFeed({
-            url: (subUrl == "default.rss") ? "http://localhost:80/default.rss" : "http://localhost:80/proxy/"+subUrl,
+            url: (subUrl == "default.rss") ? "default.rss" : "proxy/"+subUrl,
             success: function (feed) {
 				var i;
                 if (!feed) {
