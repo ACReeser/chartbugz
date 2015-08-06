@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 128 128" enable-background="new 0 0 128 128" xml:space="preserve">
+<g id="XMLID_1_">
+	<path id="XMLID_11_" fill="#BE1E2D" d="M60.6,1.3c-20.9,0-38.1,11.5-45.9,26.2c34.6,19.7,45.9,26.1,45.9,26.1l0,0l0,0L14.6,27.5
+		l45.9,26.1V1.3"/>
+	<path id="XMLID_6_" fill="#1B75BB" d="M60.9,121.2l-0.3-52.9L14.9,95C25.4,113.2,44.2,121.8,60.9,121.2"/>
+	<path id="XMLID_4_" fill="#F6921E" d="M11,87.2c34.4-20.2,45.6-26.7,45.6-26.7l0,0l0,0L11,87.2l45.6-26.7L10.7,34.4
+		C0.2,52.4,2.3,73,11,87.2z"/>
+	<path id="XMLID_2_" fill="#FFFFFF" d="M54.3,126.7"/>
+	
+		<radialGradient id="XMLID_13_" cx="93.5449" cy="68.5815" r="46.9195" gradientTransform="matrix(1 0 0 -1 0 130)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#86C440;stop-opacity:0.7"/>
+		<stop  offset="0.151" style="stop-color:#81C240;stop-opacity:0.7453"/>
+		<stop  offset="0.3297" style="stop-color:#73BD41;stop-opacity:0.7989"/>
+		<stop  offset="0.5224" style="stop-color:#5BB442;stop-opacity:0.8567"/>
+		<stop  offset="0.725" style="stop-color:#3AA843;stop-opacity:0.9175"/>
+		<stop  offset="0.9333" style="stop-color:#0F9944;stop-opacity:0.98"/>
+		<stop  offset="1" style="stop-color:#009345"/>
+	</radialGradient>
+	<path id="XMLID_60_" fill="url(#XMLID_13_)" d="M63.9,2.1c32.8,0,59.3,26.6,59.3,59.3s-26.6,59.3-59.3,59.3"/>
+	
+		<radialGradient id="XMLID_14_" cx="80.9781" cy="68.7399" r="26.4486" gradientTransform="matrix(1 0 0 -1 0 130)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#006838"/>
+		<stop  offset="0.7634" style="stop-color:#009345"/>
+	</radialGradient>
+	<polygon id="XMLID_56_" fill="url(#XMLID_14_)" points="97.2,67.9 80.1,66.6 94.7,75.6 78.4,70.3 90.5,82.4 75.9,73.5 84.7,88.1 
+		72.7,76 77.6,92.3 68.9,77.6 69.9,94.7 64.9,78.2 64.2,82.6 64.2,40.2 66.5,27.8 67.4,44.9 74.4,29.3 71.2,46.1 81.8,32.8 
+		74.6,48.3 88.2,37.9 77.5,51.2 93.1,44.3 79.6,54.7 96.4,51.7 80.8,58.6 97.8,59.7 81,62.6 	"/>
+	<g id="XMLID_52_">
+		<rect id="XMLID_54_" x="67.2" y="72.5" fill="none" width="3.9" height="3.9"/>
+		<circle id="XMLID_53_" fill="#231F20" cx="69.3" cy="74.5" r="2"/>
+	</g>
+	<g id="XMLID_49_">
+		<rect id="XMLID_51_" x="68.2" y="67.4" fill="none" width="3.9" height="3.9"/>
+		<circle id="XMLID_50_" fill="#231F20" cx="70.2" cy="69.4" r="2"/>
+	</g>
+	<g id="XMLID_46_">
+		<rect id="XMLID_48_" x="74" y="68.4" fill="none" width="3.9" height="3.9"/>
+		<circle id="XMLID_47_" fill="#231F20" cx="76" cy="70.3" r="2"/>
+	</g>
+	<g id="XMLID_43_">
+		<rect id="XMLID_45_" x="74.6" y="61.9" fill="none" width="3.9" height="3.9"/>
+		<circle id="XMLID_44_" fill="#231F20" cx="76.5" cy="63.8" r="2"/>
+	</g>
+	<g id="XMLID_40_">
+		<rect id="XMLID_42_" x="71.6" y="57.6" fill="none" width="3.9" height="3.9"/>
+		<circle id="XMLID_41_" fill="#231F20" cx="73.5" cy="59.6" r="2"/>
+	</g>
+	<g id="XMLID_37_">
+		<rect id="XMLID_39_" x="71.3" y="54.7" fill="none" width="3.9" height="3.9"/>
+		<circle id="XMLID_38_" fill="#231F20" cx="73.3" cy="56.7" r="2"/>
+	</g>
+	<g id="XMLID_34_">
+		<rect id="XMLID_36_" x="73.1" y="48.6" fill="none" width="3.9" height="3.9"/>
+		<circle id="XMLID_35_" fill="#231F20" cx="75.1" cy="50.5" r="2"/>
+	</g>
+	<g id="XMLID_31_">
+		<rect id="XMLID_33_" x="67.4" y="46.4" fill="none" width="3.9" height="3.9"/>
+		<circle id="XMLID_32_" fill="#231F20" cx="69.3" cy="48.3" r="2"/>
+	</g>
+	<path id="XMLID_7_" fill="#E6EB9F" d="M73.2,61.2c0,5.1-4.1,9.3-9.3,9.3V52C69,52,73.2,56.1,73.2,61.2z"/>
+	<path id="XMLID_5_" fill="none" d="M62.9,2.1c32.8,0,59.3,26.6,59.3,59.3s-26.6,59.3-59.3,59.3"/>
+	<g id="XMLID_8_">
+		<rect id="XMLID_10_" x="64.2" y="71.4" fill="none" width="3.9" height="3.9"/>
+		<circle id="XMLID_9_" fill="#231F20" cx="66.2" cy="73.3" r="2"/>
+	</g>
+	<g id="XMLID_19_">
+		<rect id="XMLID_21_" x="64.2" y="48" fill="none" width="3.9" height="3.9"/>
+		<circle id="XMLID_20_" fill="#231F20" cx="66.2" cy="50" r="2"/>
+	</g>
+	<path id="XMLID_12_" fill="none" stroke="#BB9B33" stroke-width="4" stroke-miterlimit="10" d="M63.9,118.7
+		c33.4-0.1,60.5-26.4,60.5-58S97.3,3.2,63.9,3.1"/>
+</g>
+</svg>
